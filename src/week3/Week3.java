@@ -9,7 +9,8 @@ package week3;
  *
  * @author Ruona
  */
-public class Week3 {
+public class Week3 
+{
 
     /**
      * @param args the command line arguments
@@ -17,7 +18,8 @@ public class Week3 {
     public static void main(String[] args)
     {
         // TODO code application logic here
-        System.out.println("Getting better")
+        System.out.println("Getting better");
+        System.out.println("shqbisdfbqowdo");
     }
     
 }
