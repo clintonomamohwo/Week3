@@ -20,7 +20,9 @@ public class Week3
         // TODO code application logic here
         System.out.println("Getting better");
         System.out.println("shqbisdfbqowdo");
-        sout;
+         System.out.println("Getting better");
+        System.out.println("shqbisdfbqowdo");
+        
     }
     
 }
